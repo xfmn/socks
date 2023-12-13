@@ -1,2 +1,0 @@
-# socks
-socks5Android
